@@ -1,2 +1,4 @@
 *.log
 *.jou
+!vivado_*.log
+!vivado_*.jou
